@@ -1,8 +1,7 @@
-# Chunk-Link: File Partition & Reconstruction App
+# Chunk Link App
 
-#### Video Demo:  <URL (https://youtu.be/r9V_82lgPaQ)>
+#### Video Demo:  [Watch Here](https://youtu.be/r9V_82lgPaQ?si=GOLpa5Pz_jYWKF1Y)
 
 #### Description:
-Chunk-Link is a Python application that splits files into smaller chunks and later reconstructs them back into their original form.  
-It uses simple logic of dividing a file into fixed-size pieces, assigning identifiers to each piece, and reassembling them in the correct order.  
-This project demonstrates the fundamentals of file handling, data storage, and reconstruction.
+The Chunk Link App partitions a file into smaller chunks and then reconstructs it back into the original file.  
+It is useful for file storage, transfer, and handling large files in smaller manageable parts.
